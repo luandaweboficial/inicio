@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&display=swap');
+
 @font-face {
     font-family: 'poppins';
     src: url(Poppins-Regular.ttf);
@@ -5,9 +7,9 @@
     font-style: normal;
   }
   @font-face {
-    font-family: 'Kiesse';
+    font-family: 'DM Sans';
     src: url(Syne-SemiBold.ttf);
   }
   * {
-      font-family: 'Kiesse';
+      font-family: 'DM sans';
   }
