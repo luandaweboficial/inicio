@@ -6,10 +6,7 @@
     font-weight: 400;
     font-style: normal;
   }
-  @font-face {
-    font-family: 'DM Sans';
-    src: url(Syne-SemiBold.ttf);
-  }
+
   * {
       font-family: 'DM sans';
   }
